@@ -1,0 +1,50 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/MemoryCaptures/
+/Recordings/
+
+# IDE generated files
+.vs/
+.idea/
+.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.pdb
+*.mdb
+
+# Local tools, credentials and temporary files
+.codex/
+.agents/
+.env
+.env.*
+!.env.example
+~$*
+.DS_Store
+Thumbs.db
+sysinfo.txt
+crashlytics-build.properties
+
+# Generated Unity exports
+*.apk
+*.aab
+*.unitypackage
+
+# Local design documents
+/开发日志.docx
+/项目文件说明.docx
+/新卡牌肉鸽游戏的构想.docx
